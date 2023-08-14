@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/index-trader/static/css/main.3242cea5.css",
-    "main.js": "/index-trader/static/js/main.baeac18a.js",
-    "static/js/787.8ad257a4.chunk.js": "/index-trader/static/js/787.8ad257a4.chunk.js",
-    "index.html": "/index-trader/index.html",
-    "main.3242cea5.css.map": "/index-trader/static/css/main.3242cea5.css.map",
-    "main.baeac18a.js.map": "/index-trader/static/js/main.baeac18a.js.map",
-    "787.8ad257a4.chunk.js.map": "/index-trader/static/js/787.8ad257a4.chunk.js.map"
+    "main.css": "/index-trader/home/static/css/main.3242cea5.css",
+    "main.js": "/index-trader/home/static/js/main.c276b3a0.js",
+    "static/js/787.8ad257a4.chunk.js": "/index-trader/home/static/js/787.8ad257a4.chunk.js",
+    "index.html": "/index-trader/home/index.html",
+    "main.3242cea5.css.map": "/index-trader/home/static/css/main.3242cea5.css.map",
+    "main.c276b3a0.js.map": "/index-trader/home/static/js/main.c276b3a0.js.map",
+    "787.8ad257a4.chunk.js.map": "/index-trader/home/static/js/787.8ad257a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3242cea5.css",
-    "static/js/main.baeac18a.js"
+    "static/js/main.c276b3a0.js"
   ]
 }
